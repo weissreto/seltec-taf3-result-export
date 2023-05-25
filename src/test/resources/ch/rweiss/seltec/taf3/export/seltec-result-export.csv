@@ -1,0 +1,989 @@
+Type;Bib;Code;FirstName;LastName;Yob;Gender;RelayNumber;RelayName;Nation;ClubName;ClubCode;ClubNation;Event;EventInfo;Class;NotCompetitive;Result;Wind;HeatRank;RoundRank;HeatNr;Lane;SinglePoints;Details
+Athlete;1;;Finn;Achermann;2013;M;;;SUI;Jugi/ Turnverein;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;1;;Finn;Achermann;2013;M;;;SUI;Jugi/ Turnverein;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;1;;Finn;Achermann;2013;M;;;SUI;Jugi/ Turnverein;;SUI;BAL;;M10;False;;;;;1;1;0;
+Athlete;1;;Finn;Achermann;2013;M;;;SUI;Jugi/ Turnverein;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;2;;Robin;Achermann;2016;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;2;;Robin;Achermann;2016;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;2;;Robin;Achermann;2016;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;2;;Robin;Achermann;2016;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;3;;Patrice;ALONSO POISSONNIER;2011;M;;;SUI;Leichtathletik Klub Zug;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;3;;Patrice;ALONSO POISSONNIER;2011;M;;;SUI;Leichtathletik Klub Zug;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;3;;Patrice;ALONSO POISSONNIER;2011;M;;;SUI;Leichtathletik Klub Zug;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;3;;Patrice;ALONSO POISSONNIER;2011;M;;;SUI;Leichtathletik Klub Zug;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;4;256261;Anna;Annen;2011;W;;;SUI;STV Küssnacht;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;4;256261;Anna;Annen;2011;W;;;SUI;STV Küssnacht;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;4;256261;Anna;Annen;2011;W;;;SUI;STV Küssnacht;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;4;256261;Anna;Annen;2011;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;5;261571;Luisa;Annen;2013;W;;;SUI;STV Küssnacht;;SUI;UKC;;W10;False;409;;;5;;;;60M:|BAL:ogV|WEZ:3.45
+Athlete;5;261571;Luisa;Annen;2013;W;;;SUI;STV Küssnacht;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;5;261571;Luisa;Annen;2013;W;;;SUI;STV Küssnacht;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;5;261571;Luisa;Annen;2013;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W10;False;3.45;;5;5;1;1;409;3.45
+Athlete;6;264844;Delia;Auzinger;2013;W;;;SUI;LV Wettingen-Baden;;SUI;UKC;;W10;False;409;;;5;;;;60M:|BAL:ogV|WEZ:3.45
+Athlete;6;264844;Delia;Auzinger;2013;W;;;SUI;LV Wettingen-Baden;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;6;264844;Delia;Auzinger;2013;W;;;SUI;LV Wettingen-Baden;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;6;264844;Delia;Auzinger;2013;W;;;SUI;LV Wettingen-Baden;;SUI;WEZ;;W10;False;3.45;;5;5;1;2;409;3.45
+Athlete;7;257129;Jonas;Bachmann;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;7;257129;Jonas;Bachmann;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M12;False;;;;;;;0;
+Athlete;7;257129;Jonas;Bachmann;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;7;257129;Jonas;Bachmann;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;8;;Mara;Bachmann;2015;W;;;SUI;Merlischachen;;SUI;UKC;;W8;False;328;;;20;;;;60M:10.06|BAL:ogV|WEZ:ogV
+Athlete;8;;Mara;Bachmann;2015;W;;;SUI;Merlischachen;;SUI;60M;;W8;False;10.06;;7;20;1;6;328;10.06
+Athlete;8;;Mara;Bachmann;2015;W;;;SUI;Merlischachen;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;8;;Mara;Bachmann;2015;W;;;SUI;Merlischachen;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;9;257986;Jayla;Bächtiger;2013;W;;;SUI;KTV Altendorf;;SUI;UKC;;W10;False;411;;;4;;;;60M:|BAL:ogV|WEZ:3.46
+Athlete;9;257986;Jayla;Bächtiger;2013;W;;;SUI;KTV Altendorf;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;9;257986;Jayla;Bächtiger;2013;W;;;SUI;KTV Altendorf;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;9;257986;Jayla;Bächtiger;2013;W;;;SUI;KTV Altendorf;;SUI;WEZ;;W10;False;3.46;;4;4;1;3;411;3.46
+Athlete;10;;Mara;Barmettler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;10;;Mara;Barmettler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;10;;Mara;Barmettler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;10;;Mara;Barmettler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;11;257717;Elina;Baumann;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;11;257717;Elina;Baumann;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W12;False;;;;;;;0;
+Athlete;11;257717;Elina;Baumann;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;11;257717;Elina;Baumann;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;12;247218;Lara;Beeler;2011;W;;;SUI;LK Zug;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;12;247218;Lara;Beeler;2011;W;;;SUI;LK Zug;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;12;247218;Lara;Beeler;2011;W;;;SUI;LK Zug;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;12;247218;Lara;Beeler;2011;W;;;SUI;LK Zug;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;13;265011;Ulla;Beerli;2015;W;;;SUI;STV Küssnacht;;SUI;UKC;;W8;False;366;;;2;;;;60M:9.86|BAL:ogV|WEZ:ogV
+Athlete;13;265011;Ulla;Beerli;2015;W;;;SUI;STV Küssnacht;;SUI;60M;;W8;False;9.86;;2;2;3;7;366;9.86
+Athlete;13;265011;Ulla;Beerli;2015;W;;;SUI;STV Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;13;265011;Ulla;Beerli;2015;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;14;265005;Elif;Beffa;2013;W;;;SUI;STV Küssnacht;;SUI;UKC;;W10;False;189;;;16;;;;60M:|BAL:ogV|WEZ:2.34
+Athlete;14;265005;Elif;Beffa;2013;W;;;SUI;STV Küssnacht;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;14;265005;Elif;Beffa;2013;W;;;SUI;STV Küssnacht;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;14;265005;Elif;Beffa;2013;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W10;False;2.34;;16;16;1;4;189;2.34
+Athlete;15;;Amy;Bernet;2010;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;15;;Amy;Bernet;2010;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;15;;Amy;Bernet;2010;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;15;;Amy;Bernet;2010;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;16;263453;Delia;Betschart;2013;W;;;SUI;TV Ibach;;SUI;UKC;;W10;False;166;;;22;;;;60M:|BAL:ogV|WEZ:2.22
+Athlete;16;263453;Delia;Betschart;2013;W;;;SUI;TV Ibach;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;16;263453;Delia;Betschart;2013;W;;;SUI;TV Ibach;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;16;263453;Delia;Betschart;2013;W;;;SUI;TV Ibach;;SUI;WEZ;;W10;False;2.22;;22;22;1;5;166;2.22
+Athlete;17;;Lya;Betschart;2015;W;;;SUI;Immensee;;SUI;UKC;;W8;False;330;;;19;;;;60M:10.05|BAL:ogV|WEZ:ogV
+Athlete;17;;Lya;Betschart;2015;W;;;SUI;Immensee;;SUI;60M;;W8;False;10.05;;6;19;1;5;330;10.05
+Athlete;17;;Lya;Betschart;2015;W;;;SUI;Immensee;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;17;;Lya;Betschart;2015;W;;;SUI;Immensee;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;18;261570;Alice;Birchler;2012;W;;;SUI;STV Küssnacht;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;18;261570;Alice;Birchler;2012;W;;;SUI;STV Küssnacht;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;18;261570;Alice;Birchler;2012;W;;;SUI;STV Küssnacht;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;18;261570;Alice;Birchler;2012;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;19;;Gwen;Birchler;2014;W;;;SUI;TV Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;19;;Gwen;Birchler;2014;W;;;SUI;TV Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;19;;Gwen;Birchler;2014;W;;;SUI;TV Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;19;;Gwen;Birchler;2014;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;20;;Isabelle;Birchler;2015;W;;;SUI;TV Küssnacht;;SUI;UKC;;W8;False;349;;;9;;;;60M:9.95|BAL:ogV|WEZ:ogV
+Athlete;20;;Isabelle;Birchler;2015;W;;;SUI;TV Küssnacht;;SUI;60M;;W8;False;9.95;;2;9;2;7;349;9.95
+Athlete;20;;Isabelle;Birchler;2015;W;;;SUI;TV Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;20;;Isabelle;Birchler;2015;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;21;;Svea;Birchler;2012;W;;;SUI;TV Küssnacht;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;21;;Svea;Birchler;2012;W;;;SUI;TV Küssnacht;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;21;;Svea;Birchler;2012;W;;;SUI;TV Küssnacht;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;21;;Svea;Birchler;2012;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;22;;Elias;Bissig;2013;M;;;SUI;TV Küssnacht;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;22;;Elias;Bissig;2013;M;;;SUI;TV Küssnacht;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;22;;Elias;Bissig;2013;M;;;SUI;TV Küssnacht;;SUI;BAL;;M10;False;;;;;1;2;0;
+Athlete;22;;Elias;Bissig;2013;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;23;;Frowin;Bissig;2015;M;;;SUI;FCL Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;23;;Frowin;Bissig;2015;M;;;SUI;FCL Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;23;;Frowin;Bissig;2015;M;;;SUI;FCL Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;23;;Frowin;Bissig;2015;M;;;SUI;FCL Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;24;;Nora;Blickisdorf;2015;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W8;False;360;;;4;;;;60M:9.89|BAL:ogV|WEZ:ogV
+Athlete;24;;Nora;Blickisdorf;2015;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W8;False;9.89;;4;4;3;5;360;9.89
+Athlete;24;;Nora;Blickisdorf;2015;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;24;;Nora;Blickisdorf;2015;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;25;;Thomas;Bohren;2016;M;;;SUI;LK Zug;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;25;;Thomas;Bohren;2016;M;;;SUI;LK Zug;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;25;;Thomas;Bohren;2016;M;;;SUI;LK Zug;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;25;;Thomas;Bohren;2016;M;;;SUI;LK Zug;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;26;;Dean;Brändle;2015;M;;;SUI;küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;26;;Dean;Brändle;2015;M;;;SUI;küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;26;;Dean;Brändle;2015;M;;;SUI;küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;26;;Dean;Brändle;2015;M;;;SUI;küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;27;;Sina;Brändle;2017;W;;;SUI;küssnacht;;SUI;UKC;;W7;False;2’706;;;4;;;;60M:4.05|BAL:ogV|WEZ:ogV
+Athlete;27;;Sina;Brändle;2017;W;;;SUI;küssnacht;;SUI;60M;;W7;False;4.05;;4;4;2;5;2706;4.05
+Athlete;27;;Sina;Brändle;2017;W;;;SUI;küssnacht;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;27;;Sina;Brändle;2017;W;;;SUI;küssnacht;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;28;251464;Gaston;Brichet;2011;M;;;SUI;STV Unterägeri;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;28;251464;Gaston;Brichet;2011;M;;;SUI;STV Unterägeri;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;28;251464;Gaston;Brichet;2011;M;;;SUI;STV Unterägeri;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;28;251464;Gaston;Brichet;2011;M;;;SUI;STV Unterägeri;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;29;257918;Lionel;Brichet;2014;M;;;SUI;STV Unterägeri;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;29;257918;Lionel;Brichet;2014;M;;;SUI;STV Unterägeri;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;29;257918;Lionel;Brichet;2014;M;;;SUI;STV Unterägeri;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;29;257918;Lionel;Brichet;2014;M;;;SUI;STV Unterägeri;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;30;;Janosch;Brotschi;2016;M;;;SUI;LK Zug;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;30;;Janosch;Brotschi;2016;M;;;SUI;LK Zug;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;30;;Janosch;Brotschi;2016;M;;;SUI;LK Zug;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;30;;Janosch;Brotschi;2016;M;;;SUI;LK Zug;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;31;254808;Matteo;Brotschi;2011;M;;;SUI;LK Zug;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;31;254808;Matteo;Brotschi;2011;M;;;SUI;LK Zug;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;31;254808;Matteo;Brotschi;2011;M;;;SUI;LK Zug;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;31;254808;Matteo;Brotschi;2011;M;;;SUI;LK Zug;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;32;261221;Nino;Brotschi;2014;M;;;SUI;LK Zug;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;32;261221;Nino;Brotschi;2014;M;;;SUI;LK Zug;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;32;261221;Nino;Brotschi;2014;M;;;SUI;LK Zug;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;32;261221;Nino;Brotschi;2014;M;;;SUI;LK Zug;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;33;;Anja;Brun;2016;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W7;False;2’104;;;5;;;;60M:5.06|BAL:ogV|WEZ:ogV
+Athlete;33;;Anja;Brun;2016;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W7;False;5.06;;5;5;2;6;2104;5.06
+Athlete;33;;Anja;Brun;2016;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;33;;Anja;Brun;2016;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;34;;Jana;Brun;2012;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;34;;Jana;Brun;2012;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;34;;Jana;Brun;2012;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;34;;Jana;Brun;2012;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;35;;Linus;Brun;2014;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;35;;Linus;Brun;2014;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;35;;Linus;Brun;2014;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;35;;Linus;Brun;2014;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;36;;Raphael;Bründler;2008;M;;;SUI;Ruswil;;SUI;UKC;;M15;False;1’773;;;1;;;;60M:5.06|BAL:ogV|WEZ:ogV
+Athlete;36;;Raphael;Bründler;2008;M;;;SUI;Ruswil;;SUI;60M;;M15;False;5.06;;1;1;1;4;1773;5.06
+Athlete;36;;Raphael;Bründler;2008;M;;;SUI;Ruswil;;SUI;BAL;;M15;False;;;;;;;0;
+Athlete;36;;Raphael;Bründler;2008;M;;;SUI;Ruswil;;SUI;WEZ;;M15;False;;;;;;;0;
+Athlete;37;255809;Lenny;Bucher;2012;M;;;SUI;Hochwacht Zug;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;37;255809;Lenny;Bucher;2012;M;;;SUI;Hochwacht Zug;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;37;255809;Lenny;Bucher;2012;M;;;SUI;Hochwacht Zug;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;37;255809;Lenny;Bucher;2012;M;;;SUI;Hochwacht Zug;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;38;;Marielena;Büchler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;38;;Marielena;Büchler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;38;;Marielena;Büchler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;38;;Marielena;Büchler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;39;;Marisol;Büchler;2014;W;;;SUI;Swiss Athletics;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;39;;Marisol;Büchler;2014;W;;;SUI;Swiss Athletics;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;39;;Marisol;Büchler;2014;W;;;SUI;Swiss Athletics;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;39;;Marisol;Büchler;2014;W;;;SUI;Swiss Athletics;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;40;257131;Nina;Büeler;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;40;257131;Nina;Büeler;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W12;False;;;;;;;0;
+Athlete;40;257131;Nina;Büeler;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;40;257131;Nina;Büeler;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;41;175876;Senya;Bühler;2010;W;;;SUI;LK Zug;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;41;175876;Senya;Bühler;2010;W;;;SUI;LK Zug;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;41;175876;Senya;Bühler;2010;W;;;SUI;LK Zug;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;41;175876;Senya;Bühler;2010;W;;;SUI;LK Zug;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;42;257701;Tayra;Bühler;2014;W;;;SUI;LK Zug;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;42;257701;Tayra;Bühler;2014;W;;;SUI;LK Zug;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;42;257701;Tayra;Bühler;2014;W;;;SUI;LK Zug;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;42;257701;Tayra;Bühler;2014;W;;;SUI;LK Zug;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;43;257127;Lea;Bürgler;2010;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;43;257127;Lea;Bürgler;2010;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W13;False;;;;;;;0;
+Athlete;43;257127;Lea;Bürgler;2010;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;43;257127;Lea;Bürgler;2010;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;44;;Thalia;Buschor;2014;W;;;SUI;Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;44;;Thalia;Buschor;2014;W;;;SUI;Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;44;;Thalia;Buschor;2014;W;;;SUI;Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;44;;Thalia;Buschor;2014;W;;;SUI;Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;45;260105;Melina;Contratto;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;45;260105;Melina;Contratto;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W12;False;;;;;;;0;
+Athlete;45;260105;Melina;Contratto;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;45;260105;Melina;Contratto;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;46;249976;Bennet;De Groodt;2009;M;;;NED;STV Küssnacht;;SUI;UKC;;M14;False;2’437;;;1;;;;60M:4.35|BAL:ogV|WEZ:3.45
+Athlete;46;249976;Bennet;De Groodt;2009;M;;;NED;STV Küssnacht;;SUI;60M;;M14;False;4.35;;1;1;1;3;2122;4.35
+Athlete;46;249976;Bennet;De Groodt;2009;M;;;NED;STV Küssnacht;;SUI;BAL;;M14;False;;;;;;;0;
+Athlete;46;249976;Bennet;De Groodt;2009;M;;;NED;STV Küssnacht;;SUI;WEZ;;M14;False;3.45;;4;4;1;1;315;3.45
+Athlete;47;254407;Jayden;De Groodt;2011;M;;;SUI;STV Küssnacht;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;47;254407;Jayden;De Groodt;2011;M;;;SUI;STV Küssnacht;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;47;254407;Jayden;De Groodt;2011;M;;;SUI;STV Küssnacht;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;47;254407;Jayden;De Groodt;2011;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;48;;Giuliana;Della Chiesa;2014;W;;;SUI;Swiss Athletics;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;48;;Giuliana;Della Chiesa;2014;W;;;SUI;Swiss Athletics;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;48;;Giuliana;Della Chiesa;2014;W;;;SUI;Swiss Athletics;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;48;;Giuliana;Della Chiesa;2014;W;;;SUI;Swiss Athletics;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;49;;Dylan;Diener;2016;M;;;SUI;Immensee;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;49;;Dylan;Diener;2016;M;;;SUI;Immensee;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;49;;Dylan;Diener;2016;M;;;SUI;Immensee;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;49;;Dylan;Diener;2016;M;;;SUI;Immensee;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;50;;Celine;Dober;2016;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W7;False;4’194;;;2;;;;60M:2.03|BAL:ogV|WEZ:ogV
+Athlete;50;;Celine;Dober;2016;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W7;False;2.03;;2;2;2;3;4194;2.03
+Athlete;50;;Celine;Dober;2016;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;50;;Celine;Dober;2016;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;51;245415;Elin;Dober;2008;W;;;SUI;STV Küssnacht;;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;51;245415;Elin;Dober;2008;W;;;SUI;STV Küssnacht;;SUI;60M;;W15;False;;;;;;;0;
+Athlete;51;245415;Elin;Dober;2008;W;;;SUI;STV Küssnacht;;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;51;245415;Elin;Dober;2008;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;52;;Rea;Dober;2013;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W10;False;384;;;11;;;;60M:|BAL:ogV|WEZ:3.33
+Athlete;52;;Rea;Dober;2013;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;52;;Rea;Dober;2013;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;52;;Rea;Dober;2013;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W10;False;3.33;;11;11;1;6;384;3.33
+Athlete;53;257756;Neo;Dobrilovic;2013;M;;;SRB;LK Zug;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;53;257756;Neo;Dobrilovic;2013;M;;;SRB;LK Zug;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;53;257756;Neo;Dobrilovic;2013;M;;;SRB;LK Zug;;SUI;BAL;;M10;False;;;;;1;3;0;
+Athlete;53;257756;Neo;Dobrilovic;2013;M;;;SRB;LK Zug;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;54;253330;Eleonor;Domont;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;54;253330;Eleonor;Domont;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;54;253330;Eleonor;Domont;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;54;253330;Eleonor;Domont;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;55;;Max;Dompert;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;55;;Max;Dompert;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M8;False;;;;;;;0;
+Athlete;55;;Max;Dompert;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;55;;Max;Dompert;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;56;264027;Moritz;Dompert;2013;M;;;GER;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;56;264027;Moritz;Dompert;2013;M;;;GER;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M10;False;;;;;;;0;
+Athlete;56;264027;Moritz;Dompert;2013;M;;;GER;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M10;False;;;;;1;4;0;
+Athlete;56;264027;Moritz;Dompert;2013;M;;;GER;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;57;256690;Lea;Dorfmeister;2013;W;;;AUT;LK Zug;;SUI;UKC;;W10;False;409;;;5;;;;60M:|BAL:ogV|WEZ:3.45
+Athlete;57;256690;Lea;Dorfmeister;2013;W;;;AUT;LK Zug;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;57;256690;Lea;Dorfmeister;2013;W;;;AUT;LK Zug;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;57;256690;Lea;Dorfmeister;2013;W;;;AUT;LK Zug;;SUI;WEZ;;W10;False;3.45;;5;5;1;7;409;3.45
+Athlete;58;;Felipe;Duque Weber;2014;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;58;;Felipe;Duque Weber;2014;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;58;;Felipe;Duque Weber;2014;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;58;;Felipe;Duque Weber;2014;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;59;;Sophia;Duque Weber;2018;W;;;SUI;Küssnacht;;SUI;UKC;;W7;False;1;;;11;;;;60M:14.15|BAL:ogV|WEZ:ogV
+Athlete;59;;Sophia;Duque Weber;2018;W;;;SUI;Küssnacht;;SUI;60M;;W7;False;14.15;;4;11;1;6;1;14.15
+Athlete;59;;Sophia;Duque Weber;2018;W;;;SUI;Küssnacht;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;59;;Sophia;Duque Weber;2018;W;;;SUI;Küssnacht;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;60;;Anna;Durrer;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;60;;Anna;Durrer;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W9;False;;;;;;;0;
+Athlete;60;;Anna;Durrer;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;60;;Anna;Durrer;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;61;;Lea;Durrer;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W7;False;0;;;;;;;60M:16.17|BAL:ogV|WEZ:ogV
+Athlete;61;;Lea;Durrer;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W7;False;16.17;;6;13;1;8;0;16.17
+Athlete;61;;Lea;Durrer;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;61;;Lea;Durrer;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;62;261073;Shiloh;Edobor;2014;W;;;SUI;LK Zug;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;62;261073;Shiloh;Edobor;2014;W;;;SUI;LK Zug;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;62;261073;Shiloh;Edobor;2014;W;;;SUI;LK Zug;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;62;261073;Shiloh;Edobor;2014;W;;;SUI;LK Zug;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;63;164846;Lia;Eggenspieler;2008;W;;;SUI;Hochwacht Zug;;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;63;164846;Lia;Eggenspieler;2008;W;;;SUI;Hochwacht Zug;;SUI;60M;;W15;False;;;;;;;0;
+Athlete;63;164846;Lia;Eggenspieler;2008;W;;;SUI;Hochwacht Zug;;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;63;164846;Lia;Eggenspieler;2008;W;;;SUI;Hochwacht Zug;;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;64;;bryn;evans;2015;M;;;SUI;zürich;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;64;;bryn;evans;2015;M;;;SUI;zürich;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;64;;bryn;evans;2015;M;;;SUI;zürich;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;64;;bryn;evans;2015;M;;;SUI;zürich;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;65;;magnus;evans;2016;M;;;SUI;zürich;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;65;;magnus;evans;2016;M;;;SUI;zürich;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;65;;magnus;evans;2016;M;;;SUI;zürich;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;65;;magnus;evans;2016;M;;;SUI;zürich;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;66;;Sophia;Eyholzer;2015;W;;;SUI;Merlischachen;;SUI;UKC;;W8;False;354;;;6;;;;60M:9.92|BAL:ogV|WEZ:ogV
+Athlete;66;;Sophia;Eyholzer;2015;W;;;SUI;Merlischachen;;SUI;60M;;W8;False;9.92;;6;6;3;3;354;9.92
+Athlete;66;;Sophia;Eyholzer;2015;W;;;SUI;Merlischachen;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;66;;Sophia;Eyholzer;2015;W;;;SUI;Merlischachen;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;67;249967;Zoe;Feer;2009;W;;;SUI;STV Küssnacht;;SUI;UKC;;W14;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;67;249967;Zoe;Feer;2009;W;;;SUI;STV Küssnacht;;SUI;60M;;W14;False;;;;;;;0;
+Athlete;67;249967;Zoe;Feer;2009;W;;;SUI;STV Küssnacht;;SUI;BAL;;W14;False;;;;;;;0;
+Athlete;67;249967;Zoe;Feer;2009;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W14;False;;;;;;;0;
+Athlete;68;260513;Sophie;Feuerlein;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;68;260513;Sophie;Feuerlein;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;68;260513;Sophie;Feuerlein;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;68;260513;Sophie;Feuerlein;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;69;;Davide;Fischetti;2015;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;69;;Davide;Fischetti;2015;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;69;;Davide;Fischetti;2015;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;69;;Davide;Fischetti;2015;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;70;;Celine;Forster;2015;W;;;SUI;Küssnacht;;SUI;UKC;;W8;False;356;;;5;;;;60M:9.91|BAL:ogV|WEZ:ogV
+Athlete;70;;Celine;Forster;2015;W;;;SUI;Küssnacht;;SUI;60M;;W8;False;9.91;;5;5;3;4;356;9.91
+Athlete;70;;Celine;Forster;2015;W;;;SUI;Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;70;;Celine;Forster;2015;W;;;SUI;Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;71;;Elena;Franco;2015;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W8;False;343;;;12;;;;60M:9.98|BAL:ogV|WEZ:ogV
+Athlete;71;;Elena;Franco;2015;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W8;False;9.98;;5;12;2;4;343;9.98
+Athlete;71;;Elena;Franco;2015;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;71;;Elena;Franco;2015;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;72;;Louis;Frei;2016;M;;;SUI;Küssnacht;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;72;;Louis;Frei;2016;M;;;SUI;Küssnacht;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;72;;Louis;Frei;2016;M;;;SUI;Küssnacht;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;72;;Louis;Frei;2016;M;;;SUI;Küssnacht;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;73;;Vanessa Lima;Frei;2013;W;;;SUI;Küssnacht;;SUI;UKC;;W10;False;829;;;2;;;;60M:|BAL:ogV|WEZ:5.43
+Athlete;73;;Vanessa Lima;Frei;2013;W;;;SUI;Küssnacht;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;73;;Vanessa Lima;Frei;2013;W;;;SUI;Küssnacht;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;73;;Vanessa Lima;Frei;2013;W;;;SUI;Küssnacht;;SUI;WEZ;;W10;False;5.43;;2;2;1;8;829;5.43
+Athlete;74;;Ann-Kathrin;Fröhlich;2011;W;;;SUI;STV Küssnacht;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;74;;Ann-Kathrin;Fröhlich;2011;W;;;SUI;STV Küssnacht;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;74;;Ann-Kathrin;Fröhlich;2011;W;;;SUI;STV Küssnacht;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;74;;Ann-Kathrin;Fröhlich;2011;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;75;;Lea;Gänser;2014;W;;;SUI;-;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;75;;Lea;Gänser;2014;W;;;SUI;-;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;75;;Lea;Gänser;2014;W;;;SUI;-;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;75;;Lea;Gänser;2014;W;;;SUI;-;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;76;;Kiani;Gini;2013;W;;;SUI;Swiss Athletics;;SUI;UKC;;W10;False;185;;;20;;;;60M:|BAL:ogV|WEZ:2.32
+Athlete;76;;Kiani;Gini;2013;W;;;SUI;Swiss Athletics;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;76;;Kiani;Gini;2013;W;;;SUI;Swiss Athletics;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;76;;Kiani;Gini;2013;W;;;SUI;Swiss Athletics;;SUI;WEZ;;W10;False;2.32;;20;20;1;9;185;2.32
+Athlete;77;263429;Jan;Gisler;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;77;263429;Jan;Gisler;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M9;False;;;;;;;0;
+Athlete;77;263429;Jan;Gisler;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;77;263429;Jan;Gisler;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;78;;Damian;Gnos;2015;M;;;SUI;Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;78;;Damian;Gnos;2015;M;;;SUI;Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;78;;Damian;Gnos;2015;M;;;SUI;Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;78;;Damian;Gnos;2015;M;;;SUI;Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;79;;Joana Maria;Goncalves Caeiro;2017;W;;;SUI;Küssnacht;;SUI;UKC;;W7;False;902;;;7;;;;60M:7.80|BAL:ogV|WEZ:ogV
+Athlete;79;;Joana Maria;Goncalves Caeiro;2017;W;;;SUI;Küssnacht;;SUI;60M;;W7;False;7.80;;7;7;2;8;902;7.80
+Athlete;79;;Joana Maria;Goncalves Caeiro;2017;W;;;SUI;Küssnacht;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;79;;Joana Maria;Goncalves Caeiro;2017;W;;;SUI;Küssnacht;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;80;253332;Philomena;Gross;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;80;253332;Philomena;Gross;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;80;253332;Philomena;Gross;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;80;253332;Philomena;Gross;2011;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;81;;Jannis;Grossmann;2015;M;;;SUI;Küssnacht SZ;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;81;;Jannis;Grossmann;2015;M;;;SUI;Küssnacht SZ;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;81;;Jannis;Grossmann;2015;M;;;SUI;Küssnacht SZ;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;81;;Jannis;Grossmann;2015;M;;;SUI;Küssnacht SZ;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;82;;Liam;Grossmann;2014;M;;;SUI;Küssnacht SZ Zust;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;82;;Liam;Grossmann;2014;M;;;SUI;Küssnacht SZ Zust;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;82;;Liam;Grossmann;2014;M;;;SUI;Küssnacht SZ Zust;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;82;;Liam;Grossmann;2014;M;;;SUI;Küssnacht SZ Zust;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;83;;Lea;Grunert;2016;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W7;False;244;;;8;;;;60M:10.57|BAL:ogV|WEZ:ogV
+Athlete;83;;Lea;Grunert;2016;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W7;False;10.57;;1;8;1;3;244;10.57
+Athlete;83;;Lea;Grunert;2016;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;83;;Lea;Grunert;2016;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;84;263923;Kaela;Guntli;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;84;263923;Kaela;Guntli;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;84;263923;Kaela;Guntli;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;84;263923;Kaela;Guntli;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;85;;Viktoria;Hammer;2015;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W8;False;337;;;15;;;;60M:10.01|BAL:ogV|WEZ:ogV
+Athlete;85;;Viktoria;Hammer;2015;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W8;False;10.01;;2;15;1;1;337;10.01
+Athlete;85;;Viktoria;Hammer;2015;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;85;;Viktoria;Hammer;2015;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;86;;Malia;Hauser;2013;W;;;SUI;-;;SUI;UKC;;W10;False;187;;;17;;;;60M:|BAL:ogV|WEZ:2.33
+Athlete;86;;Malia;Hauser;2013;W;;;SUI;-;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;86;;Malia;Hauser;2013;W;;;SUI;-;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;86;;Malia;Hauser;2013;W;;;SUI;-;;SUI;WEZ;;W10;False;2.33;;17;17;1;10;187;2.33
+Athlete;87;;Fabiana;Hediger;2014;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;87;;Fabiana;Hediger;2014;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;87;;Fabiana;Hediger;2014;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;87;;Fabiana;Hediger;2014;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;88;252425;Norina;Hediger;2009;W;;;SUI;STV Küssnacht;;SUI;UKC;;W14;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;88;252425;Norina;Hediger;2009;W;;;SUI;STV Küssnacht;;SUI;60M;;W14;False;;;;;;;0;
+Athlete;88;252425;Norina;Hediger;2009;W;;;SUI;STV Küssnacht;;SUI;BAL;;W14;False;;;;;;;0;
+Athlete;88;252425;Norina;Hediger;2009;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W14;False;;;;;;;0;
+Athlete;89;;Mirjam;Hegglin;2008;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;89;;Mirjam;Hegglin;2008;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W15;False;;;;;;;0;
+Athlete;89;;Mirjam;Hegglin;2008;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;89;;Mirjam;Hegglin;2008;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;90;;Ian;Herrmann;2014;M;;;SUI;Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;90;;Ian;Herrmann;2014;M;;;SUI;Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;90;;Ian;Herrmann;2014;M;;;SUI;Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;90;;Ian;Herrmann;2014;M;;;SUI;Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;91;;Jason;Herrmann;2012;M;;;SUI;Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;91;;Jason;Herrmann;2012;M;;;SUI;Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;91;;Jason;Herrmann;2012;M;;;SUI;Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;91;;Jason;Herrmann;2012;M;;;SUI;Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;92;;Hendrik;Hintz;2014;M;;;SUI;ETV Schindellegi;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;92;;Hendrik;Hintz;2014;M;;;SUI;ETV Schindellegi;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;92;;Hendrik;Hintz;2014;M;;;SUI;ETV Schindellegi;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;92;;Hendrik;Hintz;2014;M;;;SUI;ETV Schindellegi;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;93;;Jana;Hodel;2015;W;;;SUI;Küssnacht am rigi;;SUI;UKC;;W8;False;368;;;1;;;;60M:9.85|BAL:ogV|WEZ:ogV
+Athlete;93;;Jana;Hodel;2015;W;;;SUI;Küssnacht am rigi;;SUI;60M;;W8;False;9.85;;1;1;3;8;368;9.85
+Athlete;93;;Jana;Hodel;2015;W;;;SUI;Küssnacht am rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;93;;Jana;Hodel;2015;W;;;SUI;Küssnacht am rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;94;;Kim;Hofstetter;2013;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W10;False;187;;;17;;;;60M:|BAL:ogV|WEZ:2.33
+Athlete;94;;Kim;Hofstetter;2013;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;94;;Kim;Hofstetter;2013;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;94;;Kim;Hofstetter;2013;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W10;False;2.33;;17;17;1;11;187;2.33
+Athlete;95;;Shira;Hofstetter;2015;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W8;False;352;;;7;;;;60M:9.93|BAL:ogV|WEZ:ogV
+Athlete;95;;Shira;Hofstetter;2015;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W8;False;9.93;;7;7;3;2;352;9.93
+Athlete;95;;Shira;Hofstetter;2015;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;95;;Shira;Hofstetter;2015;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;96;262719;Simona;Hosennen;2014;W;;;SUI;TV Ibach;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;96;262719;Simona;Hosennen;2014;W;;;SUI;TV Ibach;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;96;262719;Simona;Hosennen;2014;W;;;SUI;TV Ibach;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;96;262719;Simona;Hosennen;2014;W;;;SUI;TV Ibach;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;97;;Hasti;Husaini;2015;W;;;SUI;Schwyz;;SUI;UKC;;W8;False;332;;;18;;;;60M:10.04|BAL:ogV|WEZ:ogV
+Athlete;97;;Hasti;Husaini;2015;W;;;SUI;Schwyz;;SUI;60M;;W8;False;10.04;;5;18;1;4;332;10.04
+Athlete;97;;Hasti;Husaini;2015;W;;;SUI;Schwyz;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;97;;Hasti;Husaini;2015;W;;;SUI;Schwyz;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;98;;Fabian;Huwiler;2012;M;;;SUI;TV Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;98;;Fabian;Huwiler;2012;M;;;SUI;TV Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;98;;Fabian;Huwiler;2012;M;;;SUI;TV Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;98;;Fabian;Huwiler;2012;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;99;;Julia;Huwiler;2014;W;;;SUI;STV Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;99;;Julia;Huwiler;2014;W;;;SUI;STV Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;99;;Julia;Huwiler;2014;W;;;SUI;STV Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;99;;Julia;Huwiler;2014;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;100;;Fabio;Inderbitzin;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;100;;Fabio;Inderbitzin;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M8;False;;;;;;;0;
+Athlete;100;;Fabio;Inderbitzin;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;100;;Fabio;Inderbitzin;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;101;;Mauro;Inderbitzin;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;101;;Mauro;Inderbitzin;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M7;False;;;;;;;0;
+Athlete;101;;Mauro;Inderbitzin;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;101;;Mauro;Inderbitzin;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;102;263903;Thalia;Inderbitzin;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;102;263903;Thalia;Inderbitzin;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W12;False;;;;;;;0;
+Athlete;102;263903;Thalia;Inderbitzin;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;102;263903;Thalia;Inderbitzin;2011;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;103;;Zeynep;Isikli;2014;W;;;SUI;TV Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;103;;Zeynep;Isikli;2014;W;;;SUI;TV Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;103;;Zeynep;Isikli;2014;W;;;SUI;TV Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;103;;Zeynep;Isikli;2014;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;104;;Erin;Iten;2015;W;;;SUI;tv Küssnacht;;SUI;UKC;;W8;False;341;;;13;;;;60M:9.99|BAL:ogV|WEZ:ogV
+Athlete;104;;Erin;Iten;2015;W;;;SUI;tv Küssnacht;;SUI;60M;;W8;False;9.99;;6;13;2;3;341;9.99
+Athlete;104;;Erin;Iten;2015;W;;;SUI;tv Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;104;;Erin;Iten;2015;W;;;SUI;tv Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;105;;Jana;Iten;2017;W;;;SUI;Immensee;;SUI;UKC;;W7;False;5’087;;;1;;;;60M:1.02|BAL:ogV|WEZ:ogV
+Athlete;105;;Jana;Iten;2017;W;;;SUI;Immensee;;SUI;60M;;W7;False;1.02;;1;1;2;2;5087;1.02
+Athlete;105;;Jana;Iten;2017;W;;;SUI;Immensee;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;105;;Jana;Iten;2017;W;;;SUI;Immensee;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;106;;Lena;Iten;2015;W;;;SUI;tv küssnacht;;SUI;UKC;;W8;False;345;;;11;;;;60M:9.97|BAL:ogV|WEZ:ogV
+Athlete;106;;Lena;Iten;2015;W;;;SUI;tv küssnacht;;SUI;60M;;W8;False;9.97;;4;11;2;5;345;9.97
+Athlete;106;;Lena;Iten;2015;W;;;SUI;tv küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;106;;Lena;Iten;2015;W;;;SUI;tv küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;107;;Leo;Iten;2015;M;;;SUI;Immensee;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;107;;Leo;Iten;2015;M;;;SUI;Immensee;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;107;;Leo;Iten;2015;M;;;SUI;Immensee;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;107;;Leo;Iten;2015;M;;;SUI;Immensee;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;108;;Vivien;Iten;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;108;;Vivien;Iten;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;108;;Vivien;Iten;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;108;;Vivien;Iten;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;109;;Jonah;Jäger;2014;M;;;SUI;Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;109;;Jonah;Jäger;2014;M;;;SUI;Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;109;;Jonah;Jäger;2014;M;;;SUI;Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;109;;Jonah;Jäger;2014;M;;;SUI;Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;110;;Philipp;John;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;110;;Philipp;John;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M9;False;;;;;;;0;
+Athlete;110;;Philipp;John;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;110;;Philipp;John;2014;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;111;257133;Katja;Kamer;2009;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W14;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;111;257133;Katja;Kamer;2009;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W14;False;;;;;;;0;
+Athlete;111;257133;Katja;Kamer;2009;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W14;False;;;;;;;0;
+Athlete;111;257133;Katja;Kamer;2009;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W14;False;;;;;;;0;
+Athlete;112;263426;Mirja;Kamer;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W10;False;384;;;11;;;;60M:|BAL:ogV|WEZ:3.33
+Athlete;112;263426;Mirja;Kamer;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W10;False;;;;;;;0;
+Athlete;112;263426;Mirja;Kamer;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;112;263426;Mirja;Kamer;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W10;False;3.33;;11;11;1;12;384;3.33
+Athlete;114;;Lio;Kaufmann;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;114;;Lio;Kaufmann;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M7;False;;;;;;;0;
+Athlete;114;;Lio;Kaufmann;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;114;;Lio;Kaufmann;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;115;;Malena;Kaufmann;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W10;False;187;;;17;;;;60M:|BAL:ogV|WEZ:2.33
+Athlete;115;;Malena;Kaufmann;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W10;False;;;;;;;0;
+Athlete;115;;Malena;Kaufmann;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;115;;Malena;Kaufmann;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W10;False;2.33;;17;17;1;13;187;2.33
+Athlete;116;257715;Fabio;Kenel;2012;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;116;257715;Fabio;Kenel;2012;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M11;False;;;;;;;0;
+Athlete;116;257715;Fabio;Kenel;2012;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;116;257715;Fabio;Kenel;2012;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;117;264427;Maro;Kennel;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;117;264427;Maro;Kennel;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M13;False;;;;;;;0;
+Athlete;117;264427;Maro;Kennel;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;117;264427;Maro;Kennel;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;118;;Max;Kesselt;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;118;;Max;Kesselt;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M7;False;;;;;;;0;
+Athlete;118;;Max;Kesselt;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;118;;Max;Kesselt;2016;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;119;;Sienna;Kriebel;2015;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W8;False;326;;;21;;;;60M:10.07|BAL:ogV|WEZ:ogV
+Athlete;119;;Sienna;Kriebel;2015;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W8;False;10.07;;8;21;1;8;326;10.07
+Athlete;119;;Sienna;Kriebel;2015;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;119;;Sienna;Kriebel;2015;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;120;;Eléni;Kron;2014;W;;;SUI;LC Regensdorf;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;120;;Eléni;Kron;2014;W;;;SUI;LC Regensdorf;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;120;;Eléni;Kron;2014;W;;;SUI;LC Regensdorf;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;120;;Eléni;Kron;2014;W;;;SUI;LC Regensdorf;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;121;;Lean;Kron;2016;M;;;SUI;LC Regensdorf;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;121;;Lean;Kron;2016;M;;;SUI;LC Regensdorf;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;121;;Lean;Kron;2016;M;;;SUI;LC Regensdorf;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;121;;Lean;Kron;2016;M;;;SUI;LC Regensdorf;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;122;259342;Florian;Krüger;2014;M;;;GER;LK Zug;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;122;259342;Florian;Krüger;2014;M;;;GER;LK Zug;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;122;259342;Florian;Krüger;2014;M;;;GER;LK Zug;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;122;259342;Florian;Krüger;2014;M;;;GER;LK Zug;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;123;264784;Maximilian;Krüger;2011;M;;;SUI;LK Zug;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;123;264784;Maximilian;Krüger;2011;M;;;SUI;LK Zug;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;123;264784;Maximilian;Krüger;2011;M;;;SUI;LK Zug;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;123;264784;Maximilian;Krüger;2011;M;;;SUI;LK Zug;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;124;258262;Alexa;Krummenacher;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;124;258262;Alexa;Krummenacher;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;124;258262;Alexa;Krummenacher;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;124;258262;Alexa;Krummenacher;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;125;256414;Alina;Kündig;2013;W;;;SUI;TV Ibach;;SUI;UKC;;W10;False;384;;;11;;;;60M:|BAL:ogV|WEZ:3.33
+Athlete;125;256414;Alina;Kündig;2013;W;;;SUI;TV Ibach;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;125;256414;Alina;Kündig;2013;W;;;SUI;TV Ibach;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;125;256414;Alina;Kündig;2013;W;;;SUI;TV Ibach;;SUI;WEZ;;W10;False;3.33;;11;11;1;14;384;3.33
+Athlete;126;;Lenia;Kündig;2015;W;;;SUI;Tv Ibach;;SUI;UKC;;W8;False;347;;;10;;;;60M:9.96|BAL:ogV|WEZ:ogV
+Athlete;126;;Lenia;Kündig;2015;W;;;SUI;Tv Ibach;;SUI;60M;;W8;False;9.96;;3;10;2;6;347;9.96
+Athlete;126;;Lenia;Kündig;2015;W;;;SUI;Tv Ibach;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;126;;Lenia;Kündig;2015;W;;;SUI;Tv Ibach;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;127;;Rubach;Kyra;2016;W;;;SUI;LK Zug;;SUI;UKC;;W7;False;3’401;;;3;;;;60M:3.04|BAL:ogV|WEZ:ogV
+Athlete;127;;Rubach;Kyra;2016;W;;;SUI;LK Zug;;SUI;60M;;W7;False;3.04;;3;3;2;4;3401;3.04
+Athlete;127;;Rubach;Kyra;2016;W;;;SUI;LK Zug;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;127;;Rubach;Kyra;2016;W;;;SUI;LK Zug;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;128;;Noah;Leoni;2013;M;;;SUI;TV Obfelden;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;128;;Noah;Leoni;2013;M;;;SUI;TV Obfelden;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;128;;Noah;Leoni;2013;M;;;SUI;TV Obfelden;;SUI;BAL;;M10;False;;;;;1;5;0;
+Athlete;128;;Noah;Leoni;2013;M;;;SUI;TV Obfelden;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;129;256688;Leon;Letter;2013;M;;;SUI;LK Zug;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;129;256688;Leon;Letter;2013;M;;;SUI;LK Zug;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;129;256688;Leon;Letter;2013;M;;;SUI;LK Zug;;SUI;BAL;;M10;False;;;;;1;6;0;
+Athlete;129;256688;Leon;Letter;2013;M;;;SUI;LK Zug;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;130;257752;Linus;Letter;2015;M;;;SUI;LK Zug;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;130;257752;Linus;Letter;2015;M;;;SUI;LK Zug;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;130;257752;Linus;Letter;2015;M;;;SUI;LK Zug;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;130;257752;Linus;Letter;2015;M;;;SUI;LK Zug;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;131;257697;Claudia;Linggi;2008;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;131;257697;Claudia;Linggi;2008;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W15;False;;;;;;;0;
+Athlete;131;257697;Claudia;Linggi;2008;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;131;257697;Claudia;Linggi;2008;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;132;;Louis;Lottenbach;2015;M;;;SUI;TV Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;132;;Louis;Lottenbach;2015;M;;;SUI;TV Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;132;;Louis;Lottenbach;2015;M;;;SUI;TV Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;132;;Louis;Lottenbach;2015;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;133;;Vonesch;Mara;2012;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;133;;Vonesch;Mara;2012;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;133;;Vonesch;Mara;2012;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;133;;Vonesch;Mara;2012;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;134;;Simon;Märchy;2015;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;134;;Simon;Märchy;2015;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;134;;Simon;Märchy;2015;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;134;;Simon;Märchy;2015;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;135;261572;Jeremie-Joel;Marra;2011;M;;;SUI;STV Küssnacht;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;135;261572;Jeremie-Joel;Marra;2011;M;;;SUI;STV Küssnacht;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;135;261572;Jeremie-Joel;Marra;2011;M;;;SUI;STV Küssnacht;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;135;261572;Jeremie-Joel;Marra;2011;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;136;;Leyana;Matoshi;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W7;False;121;;;9;;;;60M:11.55|BAL:ogV|WEZ:ogV
+Athlete;136;;Leyana;Matoshi;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W7;False;11.55;;2;9;1;4;121;11.55
+Athlete;136;;Leyana;Matoshi;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;136;;Leyana;Matoshi;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;137;253698;Sophie Mimi;Matzenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;137;253698;Sophie Mimi;Matzenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;137;253698;Sophie Mimi;Matzenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;137;253698;Sophie Mimi;Matzenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;138;;Marlene;McCarthy;2015;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W8;False;336;;;16;;;;60M:10.02|BAL:ogV|WEZ:ogV
+Athlete;138;;Marlene;McCarthy;2015;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W8;False;10.02;;3;16;1;2;336;10.02
+Athlete;138;;Marlene;McCarthy;2015;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;138;;Marlene;McCarthy;2015;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;139;253882;Laura;Meier;2008;W;;;SUI;STV Küssnacht;;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;139;253882;Laura;Meier;2008;W;;;SUI;STV Küssnacht;;SUI;60M;;W15;False;;;;;;;0;
+Athlete;139;253882;Laura;Meier;2008;W;;;SUI;STV Küssnacht;;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;139;253882;Laura;Meier;2008;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;140;;Ena;Merz;2012;W;;;SUI;TV Küssnacht;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;140;;Ena;Merz;2012;W;;;SUI;TV Küssnacht;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;140;;Ena;Merz;2012;W;;;SUI;TV Küssnacht;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;140;;Ena;Merz;2012;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;141;;Chloé;Messerli;2015;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W8;False;325;;;22;;;;60M:10.08|BAL:ogV|WEZ:ogV
+Athlete;141;;Chloé;Messerli;2015;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W8;False;10.08;;7;22;2;2;325;10.08
+Athlete;141;;Chloé;Messerli;2015;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;141;;Chloé;Messerli;2015;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;142;;Jan;Messerli;2013;M;;;SUI;Swiss Athletics;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;142;;Jan;Messerli;2013;M;;;SUI;Swiss Athletics;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;142;;Jan;Messerli;2013;M;;;SUI;Swiss Athletics;;SUI;BAL;;M10;False;;;;;1;7;0;
+Athlete;142;;Jan;Messerli;2013;M;;;SUI;Swiss Athletics;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;143;;Fynn;Meyer;2014;M;;;SUI;Jugi Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;143;;Fynn;Meyer;2014;M;;;SUI;Jugi Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;143;;Fynn;Meyer;2014;M;;;SUI;Jugi Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;143;;Fynn;Meyer;2014;M;;;SUI;Jugi Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;144;;Jay-Lou;Michel;2012;M;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;144;;Jay-Lou;Michel;2012;M;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;144;;Jay-Lou;Michel;2012;M;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;144;;Jay-Lou;Michel;2012;M;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;145;263501;Jakob;Middleton;2015;M;;;GBR;LK Zug;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;145;263501;Jakob;Middleton;2015;M;;;GBR;LK Zug;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;145;263501;Jakob;Middleton;2015;M;;;GBR;LK Zug;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;145;263501;Jakob;Middleton;2015;M;;;GBR;LK Zug;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;146;;Solomon;Mikias;2012;M;;;SUI;Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;146;;Solomon;Mikias;2012;M;;;SUI;Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;146;;Solomon;Mikias;2012;M;;;SUI;Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;146;;Solomon;Mikias;2012;M;;;SUI;Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;147;261573;Luis;Molina Fassbind;2012;M;;;SUI;STV Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;147;261573;Luis;Molina Fassbind;2012;M;;;SUI;STV Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;147;261573;Luis;Molina Fassbind;2012;M;;;SUI;STV Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;147;261573;Luis;Molina Fassbind;2012;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;148;258047;Gabriel;Muggli;2013;M;;;SUI;LK Zug;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;148;258047;Gabriel;Muggli;2013;M;;;SUI;LK Zug;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;148;258047;Gabriel;Muggli;2013;M;;;SUI;LK Zug;;SUI;BAL;;M10;False;;;;;1;8;0;
+Athlete;148;258047;Gabriel;Muggli;2013;M;;;SUI;LK Zug;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;149;;Kilian;Müller;2011;M;;;SUI;Schule Dorfhalde,  Küssnacht am Rigi;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;149;;Kilian;Müller;2011;M;;;SUI;Schule Dorfhalde,  Küssnacht am Rigi;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;149;;Kilian;Müller;2011;M;;;SUI;Schule Dorfhalde,  Küssnacht am Rigi;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;149;;Kilian;Müller;2011;M;;;SUI;Schule Dorfhalde,  Küssnacht am Rigi;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;150;253336;Lou;Müller;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;150;253336;Lou;Müller;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;150;253336;Lou;Müller;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;150;253336;Lou;Müller;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;151;263485;Aiden;Mundy;2015;M;;;SUI;kids+athletics;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;151;263485;Aiden;Mundy;2015;M;;;SUI;kids+athletics;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;151;263485;Aiden;Mundy;2015;M;;;SUI;kids+athletics;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;151;263485;Aiden;Mundy;2015;M;;;SUI;kids+athletics;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;152;256689;Gaia;Neidhart;2013;W;;;SUI;LK Zug;;SUI;UKC;;W10;False;407;;;9;;;;60M:|BAL:ogV|WEZ:3.44
+Athlete;152;256689;Gaia;Neidhart;2013;W;;;SUI;LK Zug;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;152;256689;Gaia;Neidhart;2013;W;;;SUI;LK Zug;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;152;256689;Gaia;Neidhart;2013;W;;;SUI;LK Zug;;SUI;WEZ;;W10;False;3.44;;9;9;1;15;407;3.44
+Athlete;153;256697;Benjamin;Nützi;2012;M;;;SUI;LK Zug;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;153;256697;Benjamin;Nützi;2012;M;;;SUI;LK Zug;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;153;256697;Benjamin;Nützi;2012;M;;;SUI;LK Zug;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;153;256697;Benjamin;Nützi;2012;M;;;SUI;LK Zug;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;154;263926;Liana;Odermatt;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W10;False;617;;;3;;;;60M:|BAL:ogV|WEZ:4.45
+Athlete;154;263926;Liana;Odermatt;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;154;263926;Liana;Odermatt;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;154;263926;Liana;Odermatt;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W10;False;4.45;;3;3;1;16;617;4.45
+Athlete;155;;Garcia;Olivia;2013;W;;;SUI;TV Küssnacht;;SUI;UKC;;W10;False;382;;;14;;;;60M:|BAL:ogV|WEZ:3.32
+Athlete;155;;Garcia;Olivia;2013;W;;;SUI;TV Küssnacht;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;155;;Garcia;Olivia;2013;W;;;SUI;TV Küssnacht;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;155;;Garcia;Olivia;2013;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W10;False;3.32;;14;14;1;17;382;3.32
+Athlete;156;253337;Louisa;Palermo;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;156;253337;Louisa;Palermo;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;156;253337;Louisa;Palermo;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;156;253337;Louisa;Palermo;2010;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;157;;Erik;Pavlinec;2016;M;;;SUI;Tv Küssnacht;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;157;;Erik;Pavlinec;2016;M;;;SUI;Tv Küssnacht;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;157;;Erik;Pavlinec;2016;M;;;SUI;Tv Küssnacht;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;157;;Erik;Pavlinec;2016;M;;;SUI;Tv Küssnacht;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;158;;Rebeka;Pavlinec;2014;W;;;SUI;TV Küssnacht;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;158;;Rebeka;Pavlinec;2014;W;;;SUI;TV Küssnacht;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;158;;Rebeka;Pavlinec;2014;W;;;SUI;TV Küssnacht;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;158;;Rebeka;Pavlinec;2014;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;159;258213;Lynn;Peter;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W10;False;185;;;20;;;;60M:|BAL:ogV|WEZ:2.32
+Athlete;159;258213;Lynn;Peter;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;159;258213;Lynn;Peter;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;159;258213;Lynn;Peter;2013;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W10;False;2.32;;20;20;1;18;185;2.32
+Athlete;160;;Livia;Pfyl;2012;W;;;SUI;TV Ibach;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;160;;Livia;Pfyl;2012;W;;;SUI;TV Ibach;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;160;;Livia;Pfyl;2012;W;;;SUI;TV Ibach;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;160;;Livia;Pfyl;2012;W;;;SUI;TV Ibach;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;161;;Wilms;Philipp;2016;M;;;SUI;Fussball club Küssnacht am rigi;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;161;;Wilms;Philipp;2016;M;;;SUI;Fussball club Küssnacht am rigi;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;161;;Wilms;Philipp;2016;M;;;SUI;Fussball club Küssnacht am rigi;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;161;;Wilms;Philipp;2016;M;;;SUI;Fussball club Küssnacht am rigi;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;162;;Lana;Popovic;2014;W;;;SUI;Swiss Athletics;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;162;;Lana;Popovic;2014;W;;;SUI;Swiss Athletics;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;162;;Lana;Popovic;2014;W;;;SUI;Swiss Athletics;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;162;;Lana;Popovic;2014;W;;;SUI;Swiss Athletics;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;163;;Corinne;Portmann;2009;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W14;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;163;;Corinne;Portmann;2009;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W14;False;;;;;;;0;
+Athlete;163;;Corinne;Portmann;2009;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W14;False;;;;;;;0;
+Athlete;163;;Corinne;Portmann;2009;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W14;False;;;;;;;0;
+Athlete;164;253884;Mauro;Portmann;2009;M;;;SUI;STV Küssnacht;;SUI;UKC;;M14;False;2’363;;;2;;;;60M:4.53|BAL:ogV|WEZ:3.56
+Athlete;164;253884;Mauro;Portmann;2009;M;;;SUI;STV Küssnacht;;SUI;60M;;M14;False;4.53;;2;2;1;4;2030;4.53
+Athlete;164;253884;Mauro;Portmann;2009;M;;;SUI;STV Küssnacht;;SUI;BAL;;M14;False;;;;;;;0;
+Athlete;164;253884;Mauro;Portmann;2009;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M14;False;3.56;;3;3;1;2;333;3.56
+Athlete;165;260236;Tea;Prokic;2011;W;;;SRB;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;165;260236;Tea;Prokic;2011;W;;;SRB;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W12;False;;;;;;;0;
+Athlete;165;260236;Tea;Prokic;2011;W;;;SRB;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;165;260236;Tea;Prokic;2011;W;;;SRB;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;166;;Emil;Räber;2012;M;;;SUI;VBC Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;166;;Emil;Räber;2012;M;;;SUI;VBC Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;166;;Emil;Räber;2012;M;;;SUI;VBC Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;166;;Emil;Räber;2012;M;;;SUI;VBC Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;167;;Lian;Räber;2011;M;;;SUI;küssnacht;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;167;;Lian;Räber;2011;M;;;SUI;küssnacht;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;167;;Lian;Räber;2011;M;;;SUI;küssnacht;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;167;;Lian;Räber;2011;M;;;SUI;küssnacht;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;168;;Luisa;Räber;2015;W;;;SUI;VBC Küssnacht;;SUI;UKC;;W8;False;334;;;17;;;;60M:10.03|BAL:ogV|WEZ:ogV
+Athlete;168;;Luisa;Räber;2015;W;;;SUI;VBC Küssnacht;;SUI;60M;;W8;False;10.03;;4;17;1;3;334;10.03
+Athlete;168;;Luisa;Räber;2015;W;;;SUI;VBC Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;168;;Luisa;Räber;2015;W;;;SUI;VBC Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;169;254409;Paula;Räber;2010;W;;;SUI;STV Küssnacht;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;169;254409;Paula;Räber;2010;W;;;SUI;STV Küssnacht;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;169;254409;Paula;Räber;2010;W;;;SUI;STV Küssnacht;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;169;254409;Paula;Räber;2010;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;170;;Elio;Rahm;2013;M;;;SUI;TV Küssnacht;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;170;;Elio;Rahm;2013;M;;;SUI;TV Küssnacht;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;170;;Elio;Rahm;2013;M;;;SUI;TV Küssnacht;;SUI;BAL;;M10;False;;;;;1;9;0;
+Athlete;170;;Elio;Rahm;2013;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;171;258073;Mara;Razinger;2009;W;;;SUI;STV Küssnacht;;SUI;UKC;;W14;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;171;258073;Mara;Razinger;2009;W;;;SUI;STV Küssnacht;;SUI;60M;;W14;False;;;;;;;0;
+Athlete;171;258073;Mara;Razinger;2009;W;;;SUI;STV Küssnacht;;SUI;BAL;;W14;False;;;;;;;0;
+Athlete;171;258073;Mara;Razinger;2009;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W14;False;;;;;;;0;
+Athlete;172;245465;Joel;Reppel;2009;M;;;SUI;STV Küssnacht;;SUI;UKC;;M14;False;2’190;;;3;;;;60M:4.92|BAL:ogV|WEZ:3.67
+Athlete;172;245465;Joel;Reppel;2009;M;;;SUI;STV Küssnacht;;SUI;60M;;M14;False;4.92;;3;3;1;5;1839;4.92
+Athlete;172;245465;Joel;Reppel;2009;M;;;SUI;STV Küssnacht;;SUI;BAL;;M14;False;;;;;;;0;
+Athlete;172;245465;Joel;Reppel;2009;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M14;False;3.67;;2;2;1;3;351;3.67
+Athlete;173;253340;Lionel;Reppel;2011;M;;;SUI;STV Küssnacht;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;173;253340;Lionel;Reppel;2011;M;;;SUI;STV Küssnacht;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;173;253340;Lionel;Reppel;2011;M;;;SUI;STV Küssnacht;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;173;253340;Lionel;Reppel;2011;M;;;SUI;STV Küssnacht;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;174;259952;Marisa;Rickenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;174;259952;Marisa;Rickenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;174;259952;Marisa;Rickenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;174;259952;Marisa;Rickenbacher;2010;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;175;;Leonardo;Riederer;2017;M;;;SUI;Immensee;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;175;;Leonardo;Riederer;2017;M;;;SUI;Immensee;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;175;;Leonardo;Riederer;2017;M;;;SUI;Immensee;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;175;;Leonardo;Riederer;2017;M;;;SUI;Immensee;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;176;;Gian Luca;Ritter;2010;M;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;176;;Gian Luca;Ritter;2010;M;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;M13;False;;;;;;;0;
+Athlete;176;;Gian Luca;Ritter;2010;M;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;176;;Gian Luca;Ritter;2010;M;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;177;;Arendt;Rubach;2011;M;;;SUI;LK Zug;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;177;;Arendt;Rubach;2011;M;;;SUI;LK Zug;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;177;;Arendt;Rubach;2011;M;;;SUI;LK Zug;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;177;;Arendt;Rubach;2011;M;;;SUI;LK Zug;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;178;256695;Noemi;Rüegg;2012;W;;;SUI;LK Zug;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;178;256695;Noemi;Rüegg;2012;W;;;SUI;LK Zug;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;178;256695;Noemi;Rüegg;2012;W;;;SUI;LK Zug;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;178;256695;Noemi;Rüegg;2012;W;;;SUI;LK Zug;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;179;258392;Soraya;Rüegg;2013;W;;;SUI;LK Zug;;SUI;UKC;;W10;False;0;;;;;;;60M:|BAL:ogV|WEZ:1.22
+Athlete;179;258392;Soraya;Rüegg;2013;W;;;SUI;LK Zug;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;179;258392;Soraya;Rüegg;2013;W;;;SUI;LK Zug;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;179;258392;Soraya;Rüegg;2013;W;;;SUI;LK Zug;;SUI;WEZ;;W10;False;1.22;;23;23;1;19;0;1.22
+Athlete;180;;Flavio;Rust;2014;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;180;;Flavio;Rust;2014;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;180;;Flavio;Rust;2014;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;180;;Flavio;Rust;2014;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;181;263078;Ema;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;181;263078;Ema;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;181;263078;Ema;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;181;263078;Ema;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;182;263077;Lea;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;182;263077;Lea;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;182;263077;Lea;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;182;263077;Lea;Sanjic;2014;W;;;CRO;LC Zürich;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;183;261282;Emelie;Schäfer;2012;W;;;SUI;LK Zug;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;183;261282;Emelie;Schäfer;2012;W;;;SUI;LK Zug;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;183;261282;Emelie;Schäfer;2012;W;;;SUI;LK Zug;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;183;261282;Emelie;Schäfer;2012;W;;;SUI;LK Zug;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;184;261396;Natalie Lynn;Schäfer;2014;W;;;SUI;LK Zug;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;184;261396;Natalie Lynn;Schäfer;2014;W;;;SUI;LK Zug;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;184;261396;Natalie Lynn;Schäfer;2014;W;;;SUI;LK Zug;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;184;261396;Natalie Lynn;Schäfer;2014;W;;;SUI;LK Zug;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;185;262911;Amanda;Schälin;2013;W;;;SUI;TV Ibach;;SUI;UKC;;W10;False;364;;;15;;;;60M:|BAL:ogV|WEZ:3.23
+Athlete;185;262911;Amanda;Schälin;2013;W;;;SUI;TV Ibach;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;185;262911;Amanda;Schälin;2013;W;;;SUI;TV Ibach;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;185;262911;Amanda;Schälin;2013;W;;;SUI;TV Ibach;;SUI;WEZ;;W10;False;3.23;;15;15;1;20;364;3.23
+Athlete;186;;Lenio;Schaller;2015;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;186;;Lenio;Schaller;2015;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;186;;Lenio;Schaller;2015;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;186;;Lenio;Schaller;2015;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;187;;Noé;Schaller;2012;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;187;;Noé;Schaller;2012;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;187;;Noé;Schaller;2012;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;187;;Noé;Schaller;2012;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;188;259958;Maria de la Paz;Schibli;2008;W;;;SUI;STV Küssnacht;;SUI;UKC;;W15;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;188;259958;Maria de la Paz;Schibli;2008;W;;;SUI;STV Küssnacht;;SUI;60M;;W15;False;;;;;;;0;
+Athlete;188;259958;Maria de la Paz;Schibli;2008;W;;;SUI;STV Küssnacht;;SUI;BAL;;W15;False;;;;;;;0;
+Athlete;188;259958;Maria de la Paz;Schibli;2008;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W15;False;;;;;;;0;
+Athlete;189;;Dano;Schilliger;2012;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;189;;Dano;Schilliger;2012;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;189;;Dano;Schilliger;2012;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;189;;Dano;Schilliger;2012;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;190;;Felix;Schilliger;2012;M;;;SUI;Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;190;;Felix;Schilliger;2012;M;;;SUI;Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;190;;Felix;Schilliger;2012;M;;;SUI;Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;190;;Felix;Schilliger;2012;M;;;SUI;Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;191;;Lenn;Schilliger;2010;M;;;SUI;Turnverein Küssnacht;;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;191;;Lenn;Schilliger;2010;M;;;SUI;Turnverein Küssnacht;;SUI;60M;;M13;False;;;;;;;0;
+Athlete;191;;Lenn;Schilliger;2010;M;;;SUI;Turnverein Küssnacht;;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;191;;Lenn;Schilliger;2010;M;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;192;;Max;Schilliger;2014;M;;;SUI;Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;192;;Max;Schilliger;2014;M;;;SUI;Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;192;;Max;Schilliger;2014;M;;;SUI;Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;192;;Max;Schilliger;2014;M;;;SUI;Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;193;;Till;Schilliger;2014;M;;;SUI;TV Küssnacht;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;193;;Till;Schilliger;2014;M;;;SUI;TV Küssnacht;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;193;;Till;Schilliger;2014;M;;;SUI;TV Küssnacht;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;193;;Till;Schilliger;2014;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;194;254446;Lia;Schilter;2010;W;;;SUI;Hochwacht Zug;;SUI;UKC;;W13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;194;254446;Lia;Schilter;2010;W;;;SUI;Hochwacht Zug;;SUI;60M;;W13;False;;;;;;;0;
+Athlete;194;254446;Lia;Schilter;2010;W;;;SUI;Hochwacht Zug;;SUI;BAL;;W13;False;;;;;;;0;
+Athlete;194;254446;Lia;Schilter;2010;W;;;SUI;Hochwacht Zug;;SUI;WEZ;;W13;False;;;;;;;0;
+Athlete;195;;Jaden;Schindler;2015;W;;;SUI;Fc Küssnacht;;SUI;UKC;;W8;False;339;;;14;;;;60M:10.00|BAL:ogV|WEZ:ogV
+Athlete;195;;Jaden;Schindler;2015;W;;;SUI;Fc Küssnacht;;SUI;60M;;W8;False;10.00;;1;14;1;7;339;10.00
+Athlete;195;;Jaden;Schindler;2015;W;;;SUI;Fc Küssnacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;195;;Jaden;Schindler;2015;W;;;SUI;Fc Küssnacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;196;260250;Finn;Schmid;2015;M;;;SUI;LK Zug;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;196;260250;Finn;Schmid;2015;M;;;SUI;LK Zug;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;196;260250;Finn;Schmid;2015;M;;;SUI;LK Zug;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;196;260250;Finn;Schmid;2015;M;;;SUI;LK Zug;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;197;245468;Marwin;Schneider;2008;M;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;M15;False;1’340;;;2;;;;60M:6.07|BAL:ogV|WEZ:ogV
+Athlete;197;245468;Marwin;Schneider;2008;M;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;M15;False;6.07;;2;2;1;5;1340;6.07
+Athlete;197;245468;Marwin;Schneider;2008;M;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;M15;False;;;;;;;0;
+Athlete;197;245468;Marwin;Schneider;2008;M;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;M15;False;;;;;;;0;
+Athlete;198;;Elin;Schreck;2011;W;;;SUI;Turnverein Küssnacht;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;198;;Elin;Schreck;2011;W;;;SUI;Turnverein Küssnacht;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;198;;Elin;Schreck;2011;W;;;SUI;Turnverein Küssnacht;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;198;;Elin;Schreck;2011;W;;;SUI;Turnverein Küssnacht;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;199;;Gino;Schreck;2013;M;;;SUI;TV Küssnacht;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;199;;Gino;Schreck;2013;M;;;SUI;TV Küssnacht;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;199;;Gino;Schreck;2013;M;;;SUI;TV Küssnacht;;SUI;BAL;;M10;False;;;;;1;10;0;
+Athlete;199;;Gino;Schreck;2013;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;200;;Silas;Schriever;2012;M;;;SUI;Küssnacht;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;200;;Silas;Schriever;2012;M;;;SUI;Küssnacht;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;200;;Silas;Schriever;2012;M;;;SUI;Küssnacht;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;200;;Silas;Schriever;2012;M;;;SUI;Küssnacht;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;201;263427;Livia;Schuler;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W10;False;407;;;9;;;;60M:|BAL:ogV|WEZ:3.44
+Athlete;201;263427;Livia;Schuler;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W10;False;;;;;;;0;
+Athlete;201;263427;Livia;Schuler;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;201;263427;Livia;Schuler;2013;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W10;False;3.44;;9;9;1;21;407;3.44
+Athlete;202;;Ruven;Schuler;2012;M;;;SUI;4A;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;202;;Ruven;Schuler;2012;M;;;SUI;4A;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;202;;Ruven;Schuler;2012;M;;;SUI;4A;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;202;;Ruven;Schuler;2012;M;;;SUI;4A;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;203;259911;Simon;Schuler;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;203;259911;Simon;Schuler;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M12;False;;;;;;;0;
+Athlete;203;259911;Simon;Schuler;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;203;259911;Simon;Schuler;2011;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;204;;Marc;Schumacher;2015;M;;;SUI;TV-Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;204;;Marc;Schumacher;2015;M;;;SUI;TV-Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;204;;Marc;Schumacher;2015;M;;;SUI;TV-Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;204;;Marc;Schumacher;2015;M;;;SUI;TV-Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;205;261788;Helen-Sophie;Schütz;2012;W;;;AUT;LK Zug;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;205;261788;Helen-Sophie;Schütz;2012;W;;;AUT;LK Zug;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;205;261788;Helen-Sophie;Schütz;2012;W;;;AUT;LK Zug;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;205;261788;Helen-Sophie;Schütz;2012;W;;;AUT;LK Zug;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;206;259343;Valerie;Schütz;2014;W;;;AUT;LK Zug;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;206;259343;Valerie;Schütz;2014;W;;;AUT;LK Zug;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;206;259343;Valerie;Schütz;2014;W;;;AUT;LK Zug;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;206;259343;Valerie;Schütz;2014;W;;;AUT;LK Zug;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;207;;Ignaz;Seeholzer;2015;M;;;SUI;Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;207;;Ignaz;Seeholzer;2015;M;;;SUI;Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;207;;Ignaz;Seeholzer;2015;M;;;SUI;Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;207;;Ignaz;Seeholzer;2015;M;;;SUI;Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;208;;Mateo;Serrano Moreno;2016;M;;;SUI;Küssnacht;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;208;;Mateo;Serrano Moreno;2016;M;;;SUI;Küssnacht;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;208;;Mateo;Serrano Moreno;2016;M;;;SUI;Küssnacht;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;208;;Mateo;Serrano Moreno;2016;M;;;SUI;Küssnacht;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;209;;Ilenia;Sidler;2018;W;;;SUI;TV Küssnacht;;SUI;UKC;;W7;False;1’313;;;6;;;;60M:6.70|BAL:ogV|WEZ:ogV
+Athlete;209;;Ilenia;Sidler;2018;W;;;SUI;TV Küssnacht;;SUI;60M;;W7;False;6.70;;6;6;2;7;1313;6.70
+Athlete;209;;Ilenia;Sidler;2018;W;;;SUI;TV Küssnacht;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;209;;Ilenia;Sidler;2018;W;;;SUI;TV Küssnacht;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;210;;Melina;Sidler;2015;W;;;SUI;Küssacht;;SUI;UKC;;W8;False;350;;;8;;;;60M:9.94|BAL:ogV|WEZ:ogV
+Athlete;210;;Melina;Sidler;2015;W;;;SUI;Küssacht;;SUI;60M;;W8;False;9.94;;1;8;2;8;350;9.94
+Athlete;210;;Melina;Sidler;2015;W;;;SUI;Küssacht;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;210;;Melina;Sidler;2015;W;;;SUI;Küssacht;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;211;;Rafael;Sidler;2015;M;;;SUI;TV Küssnacht;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;211;;Rafael;Sidler;2015;M;;;SUI;TV Küssnacht;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;211;;Rafael;Sidler;2015;M;;;SUI;TV Küssnacht;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;211;;Rafael;Sidler;2015;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;212;258393;Tim;Siegrist;2012;M;;;SUI;LK Zug;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;212;258393;Tim;Siegrist;2012;M;;;SUI;LK Zug;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;212;258393;Tim;Siegrist;2012;M;;;SUI;LK Zug;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;212;258393;Tim;Siegrist;2012;M;;;SUI;LK Zug;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;213;261858;Ken;Sommer;2012;M;;;SUI;LK Zug;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;213;261858;Ken;Sommer;2012;M;;;SUI;LK Zug;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;213;261858;Ken;Sommer;2012;M;;;SUI;LK Zug;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;213;261858;Ken;Sommer;2012;M;;;SUI;LK Zug;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;214;;Tim;Sonntag;2014;M;;;SUI;Immensee;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;214;;Tim;Sonntag;2014;M;;;SUI;Immensee;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;214;;Tim;Sonntag;2014;M;;;SUI;Immensee;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;214;;Tim;Sonntag;2014;M;;;SUI;Immensee;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;215;;Noemi;Sorrentino;2013;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W10;False;409;;;5;;;;60M:|BAL:ogV|WEZ:3.45
+Athlete;215;;Noemi;Sorrentino;2013;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;215;;Noemi;Sorrentino;2013;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;215;;Noemi;Sorrentino;2013;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W10;False;3.45;;5;5;1;22;409;3.45
+Athlete;216;;Leevi;Stalder;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;216;;Leevi;Stalder;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M8;False;;;;;;;0;
+Athlete;216;;Leevi;Stalder;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;216;;Leevi;Stalder;2015;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;217;245574;Nolan;Starmans;2010;M;;;SUI;LK Zug;;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;217;245574;Nolan;Starmans;2010;M;;;SUI;LK Zug;;SUI;60M;;M13;False;;;;;;;0;
+Athlete;217;245574;Nolan;Starmans;2010;M;;;SUI;LK Zug;;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;217;245574;Nolan;Starmans;2010;M;;;SUI;LK Zug;;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;218;263500;Robin;Starmans;2012;W;;;SUI;LK Zug;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;218;263500;Robin;Starmans;2012;W;;;SUI;LK Zug;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;218;263500;Robin;Starmans;2012;W;;;SUI;LK Zug;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;218;263500;Robin;Starmans;2012;W;;;SUI;LK Zug;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;219;;Leonie;Studer;2018;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W7;False;19;;;10;;;;60M:13.14|BAL:ogV|WEZ:ogV
+Athlete;219;;Leonie;Studer;2018;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W7;False;13.14;;3;10;1;5;19;13.14
+Athlete;219;;Leonie;Studer;2018;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;219;;Leonie;Studer;2018;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;220;248262;Leandro;Süess;2013;M;;;SUI;TV Brunnen;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;220;248262;Leandro;Süess;2013;M;;;SUI;TV Brunnen;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;220;248262;Leandro;Süess;2013;M;;;SUI;TV Brunnen;;SUI;BAL;;M10;False;;;;;1;11;0;
+Athlete;220;248262;Leandro;Süess;2013;M;;;SUI;TV Brunnen;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;221;;Laurien;Sumi;2014;W;;;SUI;TV Brunnen;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;221;;Laurien;Sumi;2014;W;;;SUI;TV Brunnen;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;221;;Laurien;Sumi;2014;W;;;SUI;TV Brunnen;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;221;;Laurien;Sumi;2014;W;;;SUI;TV Brunnen;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;222;244047;Lieve;Sumi;2011;W;;;SUI;TV Brunnen;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;222;244047;Lieve;Sumi;2011;W;;;SUI;TV Brunnen;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;222;244047;Lieve;Sumi;2011;W;;;SUI;TV Brunnen;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;222;244047;Lieve;Sumi;2011;W;;;SUI;TV Brunnen;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;223;263431;Jakob;Sutter;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;223;263431;Jakob;Sutter;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;M13;False;;;;;;;0;
+Athlete;223;263431;Jakob;Sutter;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;223;263431;Jakob;Sutter;2010;M;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;224;;Lena;Tarantino;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W7;False;0;;;;;;;60M:15.16|BAL:ogV|WEZ:ogV
+Athlete;224;;Lena;Tarantino;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W7;False;15.16;;5;12;1;7;0;15.16
+Athlete;224;;Lena;Tarantino;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W7;False;;;;;;;0;
+Athlete;224;;Lena;Tarantino;2016;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W7;False;;;;;;;0;
+Athlete;225;;Solomon;Temesgen;2015;M;;;SUI;Küssnacht am rigi;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;225;;Solomon;Temesgen;2015;M;;;SUI;Küssnacht am rigi;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;225;;Solomon;Temesgen;2015;M;;;SUI;Küssnacht am rigi;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;225;;Solomon;Temesgen;2015;M;;;SUI;Küssnacht am rigi;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;226;256699;Laura;Thoma;2012;W;;;SUI;LK Zug;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;226;256699;Laura;Thoma;2012;W;;;SUI;LK Zug;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;226;256699;Laura;Thoma;2012;W;;;SUI;LK Zug;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;226;256699;Laura;Thoma;2012;W;;;SUI;LK Zug;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;227;;Solomon;Thomas;2015;M;;;SUI;Swiss Athletics;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;227;;Solomon;Thomas;2015;M;;;SUI;Swiss Athletics;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;227;;Solomon;Thomas;2015;M;;;SUI;Swiss Athletics;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;227;;Solomon;Thomas;2015;M;;;SUI;Swiss Athletics;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;228;261781;Edward;Treharne;2013;M;;;GBR;LK Zug;;SUI;UKC;;M10;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;228;261781;Edward;Treharne;2013;M;;;GBR;LK Zug;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;228;261781;Edward;Treharne;2013;M;;;GBR;LK Zug;;SUI;BAL;;M10;False;;;;;1;12;0;
+Athlete;228;261781;Edward;Treharne;2013;M;;;GBR;LK Zug;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;229;;Maura;Troxler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;229;;Maura;Troxler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W9;False;;;;;;;0;
+Athlete;229;;Maura;Troxler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;229;;Maura;Troxler;2014;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;230;;James;Ulrich;2014;M;;;SUI;Swiss Athletics;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;230;;James;Ulrich;2014;M;;;SUI;Swiss Athletics;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;230;;James;Ulrich;2014;M;;;SUI;Swiss Athletics;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;230;;James;Ulrich;2014;M;;;SUI;Swiss Athletics;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;231;261069;Sebastian;van de Kreeke;2014;M;;;SUI;LK Zug;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;231;261069;Sebastian;van de Kreeke;2014;M;;;SUI;LK Zug;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;231;261069;Sebastian;van de Kreeke;2014;M;;;SUI;LK Zug;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;231;261069;Sebastian;van de Kreeke;2014;M;;;SUI;LK Zug;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;232;263929;Samuel;Vögele;2013;M;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;M10;False;397;;;1;;;;60M:|BAL:35.00|WEZ:ogV
+Athlete;232;263929;Samuel;Vögele;2013;M;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;232;263929;Samuel;Vögele;2013;M;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;M10;False;35.00;;1;1;1;13;397;35.00
+Athlete;232;263929;Samuel;Vögele;2013;M;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;233;;Malin;Vonesch;2015;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W8;False;364;;;3;;;;60M:9.87|BAL:ogV|WEZ:ogV
+Athlete;233;;Malin;Vonesch;2015;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W8;False;9.87;;3;3;3;6;364;9.87
+Athlete;233;;Malin;Vonesch;2015;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W8;False;;;;;;;0;
+Athlete;233;;Malin;Vonesch;2015;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W8;False;;;;;;;0;
+Athlete;234;;Mias;Vonesch;2015;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M8;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;234;;Mias;Vonesch;2015;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M8;False;;;;;;;0;
+Athlete;234;;Mias;Vonesch;2015;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M8;False;;;;;;;0;
+Athlete;234;;Mias;Vonesch;2015;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M8;False;;;;;;;0;
+Athlete;235;;Joris;Weber;2016;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;235;;Joris;Weber;2016;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;235;;Joris;Weber;2016;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;235;;Joris;Weber;2016;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;236;248264;Joel;Weiler;2010;M;;;SUI;TV Brunnen;;SUI;UKC;;M13;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;236;248264;Joel;Weiler;2010;M;;;SUI;TV Brunnen;;SUI;60M;;M13;False;;;;;;;0;
+Athlete;236;248264;Joel;Weiler;2010;M;;;SUI;TV Brunnen;;SUI;BAL;;M13;False;;;;;;;0;
+Athlete;236;248264;Joel;Weiler;2010;M;;;SUI;TV Brunnen;;SUI;WEZ;;M13;False;;;;;;;0;
+Athlete;237;260514;Victoria;Wessner;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;237;260514;Victoria;Wessner;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;237;260514;Victoria;Wessner;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;237;260514;Victoria;Wessner;2012;W;;;SUI;TSV 2001 Rotkreuz;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;238;;Alexandra;Wiederkehr;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;238;;Alexandra;Wiederkehr;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W9;False;;;;;;;0;
+Athlete;238;;Alexandra;Wiederkehr;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W9;False;;;;;;;0;
+Athlete;238;;Alexandra;Wiederkehr;2014;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W9;False;;;;;;;0;
+Athlete;239;257716;Madlaina;Wiederkehr;2012;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;239;257716;Madlaina;Wiederkehr;2012;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;60M;;W11;False;;;;;;;0;
+Athlete;239;257716;Madlaina;Wiederkehr;2012;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;239;257716;Madlaina;Wiederkehr;2012;W;;;SUI;Leichtathletik Arth;1.SZ.1324;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;240;;Lewis;Wiget;2011;M;;;SUI;Tv Küssnacht;;SUI;UKC;;M12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;240;;Lewis;Wiget;2011;M;;;SUI;Tv Küssnacht;;SUI;60M;;M12;False;;;;;;;0;
+Athlete;240;;Lewis;Wiget;2011;M;;;SUI;Tv Küssnacht;;SUI;BAL;;M12;False;;;;;;;0;
+Athlete;240;;Lewis;Wiget;2011;M;;;SUI;Tv Küssnacht;;SUI;WEZ;;M12;False;;;;;;;0;
+Athlete;241;;Livio;Wiget;2016;M;;;SUI;Küssnacht;;SUI;UKC;;M7;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;241;;Livio;Wiget;2016;M;;;SUI;Küssnacht;;SUI;60M;;M7;False;;;;;;;0;
+Athlete;241;;Livio;Wiget;2016;M;;;SUI;Küssnacht;;SUI;BAL;;M7;False;;;;;;;0;
+Athlete;241;;Livio;Wiget;2016;M;;;SUI;Küssnacht;;SUI;WEZ;;M7;False;;;;;;;0;
+Athlete;242;;Milena;Wiget;2013;W;;;SUI;Küssnacht am Rigi;;SUI;UKC;;W10;False;879;;;1;;;;60M:|BAL:ogV|WEZ:5.66
+Athlete;242;;Milena;Wiget;2013;W;;;SUI;Küssnacht am Rigi;;SUI;60M;;W10;False;;;;;;;0;
+Athlete;242;;Milena;Wiget;2013;W;;;SUI;Küssnacht am Rigi;;SUI;BAL;;W10;False;;;;;;;0;
+Athlete;242;;Milena;Wiget;2013;W;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;W10;False;5.66;;1;1;1;23;879;5.66
+Athlete;243;;Gabriel;Wipfli;2013;M;;;SUI;TV Küssnacht;;SUI;UKC;;M10;False;297;;;2;;;;60M:|BAL:27.00|WEZ:ogV
+Athlete;243;;Gabriel;Wipfli;2013;M;;;SUI;TV Küssnacht;;SUI;60M;;M10;False;;;;;;;0;
+Athlete;243;;Gabriel;Wipfli;2013;M;;;SUI;TV Küssnacht;;SUI;BAL;;M10;False;27.00;;2;2;1;14;297;27.00
+Athlete;243;;Gabriel;Wipfli;2013;M;;;SUI;TV Küssnacht;;SUI;WEZ;;M10;False;;;;;;;0;
+Athlete;244;;Ivan;Zivkovic;2012;M;;;SUI;Küssnacht am Rigi;;SUI;UKC;;M11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;244;;Ivan;Zivkovic;2012;M;;;SUI;Küssnacht am Rigi;;SUI;60M;;M11;False;;;;;;;0;
+Athlete;244;;Ivan;Zivkovic;2012;M;;;SUI;Küssnacht am Rigi;;SUI;BAL;;M11;False;;;;;;;0;
+Athlete;244;;Ivan;Zivkovic;2012;M;;;SUI;Küssnacht am Rigi;;SUI;WEZ;;M11;False;;;;;;;0;
+Athlete;245;;Sebastian;Zivkovic;2014;M;;;SUI;Turnverein Küssnacht am Rigi;;SUI;UKC;;M9;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;245;;Sebastian;Zivkovic;2014;M;;;SUI;Turnverein Küssnacht am Rigi;;SUI;60M;;M9;False;;;;;;;0;
+Athlete;245;;Sebastian;Zivkovic;2014;M;;;SUI;Turnverein Küssnacht am Rigi;;SUI;BAL;;M9;False;;;;;;;0;
+Athlete;245;;Sebastian;Zivkovic;2014;M;;;SUI;Turnverein Küssnacht am Rigi;;SUI;WEZ;;M9;False;;;;;;;0;
+Athlete;246;259960;Thalia;Zoppi;2011;W;;;SUI;STV Küssnacht;;SUI;UKC;;W12;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;246;259960;Thalia;Zoppi;2011;W;;;SUI;STV Küssnacht;;SUI;60M;;W12;False;;;;;;;0;
+Athlete;246;259960;Thalia;Zoppi;2011;W;;;SUI;STV Küssnacht;;SUI;BAL;;W12;False;;;;;;;0;
+Athlete;246;259960;Thalia;Zoppi;2011;W;;;SUI;STV Küssnacht;;SUI;WEZ;;W12;False;;;;;;;0;
+Athlete;247;260182;Eva-Maria;Zubonja;2012;W;;;CRO;LV Wettingen-Baden;;SUI;UKC;;W11;False;0;;;;;;;60M:|BAL:ogV|WEZ:ogV
+Athlete;247;260182;Eva-Maria;Zubonja;2012;W;;;CRO;LV Wettingen-Baden;;SUI;60M;;W11;False;;;;;;;0;
+Athlete;247;260182;Eva-Maria;Zubonja;2012;W;;;CRO;LV Wettingen-Baden;;SUI;BAL;;W11;False;;;;;;;0;
+Athlete;247;260182;Eva-Maria;Zubonja;2012;W;;;CRO;LV Wettingen-Baden;;SUI;WEZ;;W11;False;;;;;;;0;
+Athlete;248;;test;Test;2009;M;;;SUI;Schweiz;;SUI;UKC;;M14;False;2’175;;;4;;;;60M:4.99|BAL:ogV|WEZ:3.78
+Athlete;248;;test;Test;2009;M;;;SUI;Schweiz;;SUI;60M;;M14;False;4.99;;4;4;1;1;1806;4.99
+Athlete;248;;test;Test;2009;M;;;SUI;Schweiz;;SUI;BAL;;M14;False;;;;;;;0;
+Athlete;248;;test;Test;2009;M;;;SUI;Schweiz;;SUI;WEZ;;M14;False;3.78;;1;1;1;4;369;3.78| | 
