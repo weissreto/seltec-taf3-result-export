@@ -8,7 +8,6 @@ import java.util.Comparator;
 import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVRecord;
 
 record Result(int rank, Athlete athlete, Competition competition, String value) {
 
@@ -29,23 +28,19 @@ record Result(int rank, Athlete athlete, Competition competition, String value) 
     try (var reader = Files.newBufferedReader(resultsFile, StandardCharsets.ISO_8859_1)) {
       var csvReader = SELTEC_RESULT_EXPORT_FORMAT.parse(reader);
       var records = csvReader.getRecords();
-      return records.stream().map(Result::fromRecord).toList();
+      return records
+          .stream()
+          .map(CsvRecord::new)
+          .map(Result::fromRecord)
+          .toList();
     }
   }
 
-  static Result fromRecord(CSVRecord record) {
+  static Result fromRecord(CsvRecord record) {
     return new Result(
-        toRank(record.get("RoundRank")),
+        record.asOptionalInt("RoundRank"),
         Athlete.fromRecord(record),
         Competition.fromRecord(record),
-        record.get("Result"));
+        record.asString("Result"));
   }
-
-  private static int toRank(String rank) {
-    if (rank.isBlank()) {
-      return Integer.MAX_VALUE;
-    }
-    return Integer.parseInt(rank);
-  }
-
 }

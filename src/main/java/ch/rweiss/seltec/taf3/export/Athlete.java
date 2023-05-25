@@ -1,17 +1,14 @@
 package ch.rweiss.seltec.taf3.export;
 
-import org.apache.commons.csv.CSVRecord;
-
 record Athlete(int startNumber, String lastName, String firstName, String nation, String clubName, int yearOfBirth) {
 
-  public static Athlete fromRecord(CSVRecord record) {
+  public static Athlete fromRecord(CsvRecord record) {
     return new Athlete(
-        Integer.parseInt(record.get("Bib")),
-        record.get("LastName"),
-        record.get("FirstName"),
-        record.get("Nation"),
-        record.get("ClubName"),
-        Integer.parseInt(record.get("Yob")));
+        record.asInt("Bib"),
+        record.asString("LastName"),
+        record.asString("FirstName"),
+        record.asString("Nation"),
+        record.asString("ClubName"),
+        record.asInt("Yob"));
   }
-
 }
