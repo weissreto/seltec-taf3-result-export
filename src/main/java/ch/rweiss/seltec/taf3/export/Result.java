@@ -13,7 +13,7 @@ record Result(int rank, Athlete athlete, Competition competition, String value) 
 
   public static final Comparator<Result> RANK_COMPERATOR = Comparator.comparing(Result::rank);
 
-  private static final CSVFormat SELTEC_RESULT_EXPORT_FORMAT = CSVFormat.Builder.create()
+  static final CSVFormat SELTEC_RESULT_EXPORT_FORMAT = CSVFormat.Builder.create()
       .setDelimiter(';')
       .setSkipHeaderRecord(true)
       .setHeader("Type", "Bib", "Code", "FirstName", "LastName", "Yob", "Gender", "RelayNumber", "RelayName", "Nation",
