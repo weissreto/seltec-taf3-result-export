@@ -25,5 +25,9 @@
           <directory>${project.build.directory}/jdk-17.0.7+7-jre</directory>
           <outputDirectory>jre</outputDirectory>
         </fileSet>
+        <fileSet>
+          <directory>src/assembly/templates</directory>
+          <outputDirectory>templates</outputDirectory>
+        </fileSet>
       </fileSets>        
     </assembly>
