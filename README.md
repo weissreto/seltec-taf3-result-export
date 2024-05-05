@@ -1,5 +1,7 @@
 # seltec-taf3-result-export
 
+![github action workflow](https://github.com/weissreto/seltec-taf3-result-export/actions/workflows/maven.yml/badge.svg)
+
 ## English
 
 ### Description
